@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👩🏻‍🎓 I'm currently studying in SDU
-- - ✉️ How to reach me: jorhelp@qq.com
+- ✉️ How to reach me: jorhelp@qq.com
 - 💻 I like powerful programming languages like Python and C++ 
 - 🤔 ...
