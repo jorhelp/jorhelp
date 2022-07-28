@@ -12,11 +12,12 @@
     <a href="#"><img alt="jor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorhelp&langs_count=10&layout=compact&theme=radical&hide_border=true" height="200"/></a>
     <br/>
 </div>
-   
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jorhelp&column=8&theme=onedark" />
-</div>
-<br/>
 
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/jorhelp/jorhelp/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jorhelp/jorhelp/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+
+<hr>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
