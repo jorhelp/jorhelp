@@ -8,7 +8,8 @@
 - 🧗 My github pages: [here](https://jorhelp.github.io)
 - ...
 
-<br>
+</br>
+</br>
 
 <div align="center">
     <a href="#"><img alt="jor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorhelp&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="170"/></a>
