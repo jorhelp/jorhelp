@@ -5,7 +5,7 @@
 - 🌱 A web developer and web security enthusiast.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
-- 🧗 Welcome to my personal website for more information: [here](//jorhelp.top)
+- 🧗 [Welcome to my personal website for more info](//jorhelp.top)
 - ...
 
 </br>
