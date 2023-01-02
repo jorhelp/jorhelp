@@ -2,10 +2,10 @@
 
 ### Hi there
 - 🔭 I'm studying as a postgraduate in Shandong University.
-- 🌱 I like using Python and CPP.
+- 🌱 A web developer and web security enthusiast.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
-- 🧗 My github pages: [here](https://jorhelp.github.io)
+- 🧗 My github pages: [here](//jorhelp.top)
 - ...
 
 </br>
