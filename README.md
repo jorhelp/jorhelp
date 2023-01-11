@@ -11,10 +11,13 @@
 
 </br>
 
-<div align="center">
-    <img alt="jor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorhelp&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="200px"/>
-    <img alt="jor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorhelp&langs_count=10&layout=compact&theme=radical&hide_border=true" height="200px"/>
-</div>
+<a href="#">
+  <img align="center" alt="jor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorhelp&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
+</a>
+<a href="#">
+  <img align="center" alt="jor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorhelp&langs_count=10&layout=compact&theme=radical&hide_border=true"/>
+</a>
+
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jorhelp/jorhelp/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
